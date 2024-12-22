@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AppRecyclerViewTegar</string>
+    <string name="calculator">Calculator</string>
+    <string name="hasil">Hasil</string>
+    <string name="result">0</string>
+    <string name="bilangan_1">Bilangan 1</string>
+    <string name="bilangan_2">Bilangan 2</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="kali">x</string>
+    <string name="bagi">/</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="content_title">Content Title</string>
+
+    <string-array name="data_name">
+        <item>Sunflower</item>
+        <item>Jasmine</item>
+        <item>Gardenia</item>
+        <item>Rose</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>The common sunflower (Helianthus annuus) is a species of large annual forb of the daisy family Asteraceae. The common sunflower is harvested for its edible oily seeds, which are often eaten as a snack food. They are also used in the production of cooking oil, as food for livestock, as bird food, and as a plantings in domestic gardens for aesthetics. Wild plants are known for their multiple flower heads, whereas the domestic sunflower often possesses a single large flower head atop an unbranched stem.</item>
+        <item>Jasmine (botanical name: Jasminum; /ˈjæsmɪnəm/ YAS-mih-nəm)[5] is a genus of shrubs and vines in the olive family of Oleaceae.[4][6][7]: 193  It contains around 200 species native to tropical and warm temperate regions of Eurasia, Africa, and Oceania.[7]: 194  Jasmines are widely cultivated for the characteristic fragrance of their flowers. Additionally a number of unrelated species of plants or flowers contain the word "jasmine" in their common names (see Other plants called "jasmine").</item>
+        <item>Gardenia is a genus of flowering plants in the coffee family, Rubiaceae, native to the tropical and subtropical regions of Africa, Asia, Madagascar, Pacific Islands,[1] and Australia.</item>
+        <item>A rose is either a woody perennial flowering plant of the genus Rosa (/ˈroʊzə/),[4] in the family Rosaceae (/roʊˈzeɪsiːˌiː/),[4] or the flower it bears. There are over three hundred species and tens of thousands of cultivars.[5] They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles.[6] Their flowers vary in size and shape and are usually large and showy, in colours ranging from white through yellows and reds. Most species are native to Asia, with smaller numbers native to Europe, North America, and Northwest Africa.[6] Species, cultivars and hybrids are all widely grown for their beauty and often are fragrant. Roses have acquired cultural significance in many societies. Rose plants range in size from compact, miniature roses to climbers that can reach seven meters in height.[6] Different species hybridize easily, and this has been used in the development of the wide range of garden roses.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/img_1</item>
+        <item>@drawable/img</item>
+        <item>@drawable/img_2</item>
+        <item>@drawable/img_3</item>
+    </integer-array>
+</resources>
